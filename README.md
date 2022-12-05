@@ -23,10 +23,9 @@ problems using code.
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="CPlusPlus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   
- <img align= "left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-           
+ <img align= "left" alt="pytorch" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+         
  <img align= "left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
                  
  <img align="left" alt="linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
@@ -35,17 +34,15 @@ problems using code.
            
  <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
  <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-    
+ <img align="left" alt="jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />   
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-    
-<img align="left" alt="UnrealEngine" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" style="padding-right:10px;" />
- 
+ <img align="left" alt="Kaggle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" style="padding-right:10px;" />
  <img align= "left" alt="Slack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"  style="padding-right:10px;"/>
+ <img align= "left" alt="Opencv" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
+          
  
  <img align= "left" alt="Vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
                    
- 
-<img align="left" alt="Blender" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:30px;" />
 
 <br />
 
